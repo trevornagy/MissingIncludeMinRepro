@@ -1,0 +1,12 @@
+namespace Min.Repro
+{
+    [bindable]
+    [default_interface]
+    runtimeclass Test
+    {
+        Test();
+
+        void TestX();
+        void TestY();
+    }
+}
